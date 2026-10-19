@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "loyalty-core"
+  x-cortex-tag: "loyalty-core"
+  x-cortex-description: "Core loyalty account and points management"
+  x-cortex-owners:
+    - type: group
+      name: "Loyalty & Personalization Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001205"
+    apm_name: "Loyalty & Rewards Platform"
+    cost_center: "CC-4220"
